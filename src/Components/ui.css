@@ -1,0 +1,51 @@
+/* .container12{
+
+} */
+.weather-card{
+    border: 1px solid ;
+    box-shadow: 1px 1px 5px 6px rgb(234, 253, 255);
+    width: 280px;
+    height: 320px;
+    margin:  auto;
+    position: relative;
+    top: 120px;
+    background-color: rgb(162, 162, 255);
+    border-radius: 5px;
+}
+.weather-date{
+    /* border: 2px solid; */
+  font-size: 18px;
+  margin: 15px 0;
+    text-align: center;
+    
+}
+.weather-city{
+  text-align: center;
+  font-size: 25px;
+
+}
+.weather-degree{
+  margin: 11px 0;
+  text-align: center;
+  font-size: 27px;
+}
+.weather-para{
+  font-size: 18px;
+  margin: 11px 0;
+  text-align: center;
+}
+.weather-input{
+  margin: 22px 0;
+  text-align: center;
+}
+.input-data{
+  width: 155px;
+  padding: 7px 7px;
+  border: none;
+  border-bottom-left-radius: 11px;
+}
+.input-btn{
+width: fit-content;
+padding: 7px 5px;
+border: none;
+}
