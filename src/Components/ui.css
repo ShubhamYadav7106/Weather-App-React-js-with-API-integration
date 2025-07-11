@@ -1,4 +1,4 @@
-/* Body background with gradient and subtle pattern */
+
 body {
   background: linear-gradient(120deg, #1f1c2c, #928dab);
   background-size: cover;
@@ -11,7 +11,7 @@ body {
   color: #fff;
 }
 
-/* Weather card with glassmorphism effect */
+
 .weather-card {
   backdrop-filter: blur(15px);
   background: rgba(255, 255, 255, 0.1);
